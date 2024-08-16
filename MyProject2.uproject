@@ -9,7 +9,8 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine"
+				"Engine",
+				"UMG"
 			]
 		}
 	],
@@ -24,6 +25,13 @@
 		{
 			"Name": "Landmass",
 			"Enabled": true
+		},
+		{
+			"Name": "Cargo",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
