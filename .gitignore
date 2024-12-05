@@ -93,3 +93,6 @@ Content/**/*.tga
 Content/**/*.jpg
 Content/Geometry/
 Content/PhotoR_Backgrounds/
+
+# VsCode Repport Log files
+UpgradeLog*.htm
